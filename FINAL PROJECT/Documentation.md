@@ -1,4 +1,4 @@
-README: Sentiment and Network Analysis of Dream of the Red Chamber
+#Sentiment and Network Analysis of Dream of the Red Chamber
 
 Project Overview
 

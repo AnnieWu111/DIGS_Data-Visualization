@@ -3,7 +3,9 @@
 ## Overview
 
 In this project, I chose to visualize the sentiment analysis and network analysis of the classical Chinese text *Dream of the Red Chamber* from the 18th-century Qing Dynasty. For the sentiment analysis, I want to analyze the direct interaction between the two female characters Bao-chai and Dai-yu. However, as I was reading through this literary work, it seems that there’s only a few chapters that actually involve direct interactions (verbal) between the two characters, even though they appear together along with other characters simultaneously multiple times. In this case, I extracted their direct interactions out of the first eighty chapters into TXT files for sentiment analysis. And I used David Hawke’s English translation *Story of the Stone* published in the 1970s[^1]. For the network analysis, I originally planned to manually input characters’ relations and descriptions or use generative AI to build a CSV file for analysis. Then I realized that neither myself or generative AI could digest and formulate such large numbers of total 242 characters within the timeframe. Therefore I decided to use preexisting data of character relations collected by previous research in Chinese[^2] and translated them by google translate in python and my own translation using OpenRefine. 
+
 [^1]Cao, Xueqin. The Story of the Stone. Translated by David Hawkes, vol. 1–3, Penguin Classics, 1973–1980.
+
 [^2]Fan, Chao. "Research on Relationships of Characters in The Dream of the Red Chamber Based on Co-Word Analysis." ICIC Express Letters,  
  Part B: Applications, vol. 11, no. 5, 2020, pp. 493–500. ICIC International.
 
